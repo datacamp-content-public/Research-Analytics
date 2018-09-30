@@ -3,7 +3,7 @@ title: Test
 description: Test
 ---
 
-## An exercise title written in sentence case
+## Coding in HTML in <a href="https://www.datacamp.com/"> Datacamp</a>
 
 ```yaml
 type: NormalExercise
